@@ -1,0 +1,11 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+ .btn-info {
+  border-radius: 50%;
+}
+.game-card {
+	background-color: #E1D96F;
+}
